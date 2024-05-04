@@ -11,7 +11,7 @@ This is a demo project created to learn Go programming language.
 - Provides a user-friendly interface for easy monitoring and control of the garden
 
 ## Build Steps
-1. Clone the repository: `git clone https://github.com/your-username/my-smart-garden.git`
+1. Clone the repository: `git clone https://github.com/jdriscoll98/my-smart-garden.git`
 2. Navigate to the project directory: `cd my-smart-garden`
 3. Make build.sh executable `chmod +x ./build.sh`
 4. Run the build script: `./build.sh`
